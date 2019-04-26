@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_name_size">24sp</dimen>
+    <dimen name="tv_rating_size">16sp</dimen>
+    <dimen name="tv_created_at_size">16sp</dimen>
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="card_margin">4dp</dimen>
+    <dimen name="iv_size">100dp</dimen>
+    <dimen name="item_gap">10dp</dimen>
+</resources>
